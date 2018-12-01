@@ -2,6 +2,7 @@
 
 Tool to scrap linkedin based on a keyword.	
 
+
 Data Output
 
 1) Name
@@ -12,4 +13,5 @@ Data Output
 6) Email
 
 To run:
-python2 linkedin_scraper.py
+
+First enter the LinkedIn login credentials to the config.py and then run the command "python2 linkedin_scraper.py".

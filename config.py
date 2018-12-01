@@ -5,8 +5,8 @@
 # account to avoid account suspension
 
 linkedin = dict(
-    username = 'ayushshivani12345@gmail.com',
-    password = 'Ayush.19',
+    username = 'user@email.com',
+    password = 'pass',
 )
 
 ## [PROXY LIST] ##
