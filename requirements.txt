@@ -1,0 +1,4 @@
+requests==2.20.1
+thready==0.1.5
+XlsxWriter==1.1.2
+beautifulsoup4==4.6.3
